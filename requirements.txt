@@ -17,6 +17,7 @@ branca
 PyPDF2
 regex
 pyOpenSSL
+reportlab
 # --- Core Streamlit App ---
 streamlit-option-menu
 streamlit-folium
@@ -31,7 +32,8 @@ fpdf
 PyMuPDF
 matplotlib
 seaborn
-reportlab
+
+
 # --- ML / NLP ---
 scikit-learn
 joblib
@@ -39,6 +41,7 @@ transformers
 torch
 torchvision
 sentencepiece
+keras
 
 # --- Forensics & Network ---
 whois
