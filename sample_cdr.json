@@ -1,0 +1,16 @@
+[
+  {
+    "timestamp": "2025-06-29T09:10:00",
+    "call_type": "incoming",
+    "number": "+911234567890",
+    "duration": 120,
+    "location": "28.7041,77.1025"
+  },
+  {
+    "timestamp": "2025-06-29T10:10:00",
+    "call_type": "outgoing",
+    "number": "+919876543210",
+    "duration": 600,
+    "location": "28.7041,77.1025"
+  }
+]

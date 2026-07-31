@@ -1,0 +1,104 @@
+{
+  "locations": [
+    {
+      "timestampMs": "1751646168347",
+      "latitudeE7": 286100000,
+      "longitudeE7": 772000000
+    },
+    {
+      "timestampMs": "1751646588347",
+      "latitudeE7": 286110000,
+      "longitudeE7": 772010000
+    },
+    {
+      "timestampMs": "1751647008347",
+      "latitudeE7": 286120000,
+      "longitudeE7": 772020000
+    },
+    {
+      "timestampMs": "1751647428347",
+      "latitudeE7": 286130000,
+      "longitudeE7": 772030000
+    },
+    {
+      "timestampMs": "1751647848347",
+      "latitudeE7": 286140000,
+      "longitudeE7": 772040000
+    },
+    {
+      "timestampMs": "1751648268347",
+      "latitudeE7": 286150000,
+      "longitudeE7": 772050000
+    },
+    {
+      "timestampMs": "1751648688347",
+      "latitudeE7": 286160000,
+      "longitudeE7": 772060000
+    },
+    {
+      "timestampMs": "1751649108347",
+      "latitudeE7": 286170000,
+      "longitudeE7": 772070000
+    },
+    {
+      "timestampMs": "1751649528347",
+      "latitudeE7": 286180000,
+      "longitudeE7": 772080000
+    },
+    {
+      "timestampMs": "1751649948347",
+      "latitudeE7": 286190000,
+      "longitudeE7": 772090000
+    },
+    {
+      "timestampMs": "1751650368347",
+      "latitudeE7": 286200000,
+      "longitudeE7": 772100000
+    },
+    {
+      "timestampMs": "1751650788347",
+      "latitudeE7": 286210000,
+      "longitudeE7": 772110000
+    },
+    {
+      "timestampMs": "1751651208347",
+      "latitudeE7": 286220000,
+      "longitudeE7": 772120000
+    },
+    {
+      "timestampMs": "1751651628347",
+      "latitudeE7": 286230000,
+      "longitudeE7": 772130000
+    },
+    {
+      "timestampMs": "1751652048347",
+      "latitudeE7": 286240000,
+      "longitudeE7": 772140000
+    },
+    {
+      "timestampMs": "1751652468347",
+      "latitudeE7": 286250000,
+      "longitudeE7": 772150000
+    },
+    {
+      "timestampMs": "1751652888347",
+      "latitudeE7": 286260000,
+      "longitudeE7": 772160000
+    },
+    {
+      "timestampMs": "1751653308347",
+      "latitudeE7": 286270000,
+      "longitudeE7": 772170000
+    },
+    {
+      "timestampMs": "1751653728347",
+      "latitudeE7": 286280000,
+      "longitudeE7": 772180000
+    },
+    {
+      "timestampMs": "1751654148347",
+      "latitudeE7": 286290000,
+      "longitudeE7": 772190000
+    }
+  ]
+}

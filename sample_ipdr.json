@@ -1,0 +1,29 @@
+[
+  {
+    "timestamp": "2025-06-29T09:05:00",
+    "source_ip": "192.168.1.2",
+    "destination": "8.8.8.8",
+    "upload": 200,
+    "download": 500,
+    "app": "YouTube",
+    "location": "28.7041,77.1025"
+  },
+  {
+    "timestamp": "2025-06-29T09:30:00",
+    "source_ip": "192.168.1.2",
+    "destination": "1.1.1.1",
+    "upload": 1000,
+    "download": 200,
+    "app": "Telegram",
+    "location": "28.7041,77.1025"
+  },
+  {
+    "timestamp": "2025-06-29T10:50:00",
+    "source_ip": "192.168.1.2",
+    "destination": "5.5.5.5",
+    "upload": 50000,
+    "download": 1000,
+    "app": "Unknown",
+    "location": "28.7041,77.1025"
+  }
+]
