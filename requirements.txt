@@ -42,7 +42,7 @@ torch
 torchvision
 sentencepiece
 keras
-
+tensorflow
 # --- Forensics & Network ---
 whois
 scapy
