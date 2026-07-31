@@ -31,7 +31,7 @@ fpdf
 PyMuPDF
 matplotlib
 seaborn
-
+reportlab
 # --- ML / NLP ---
 scikit-learn
 joblib
