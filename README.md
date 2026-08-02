@@ -15,6 +15,7 @@ When combined with **GPS** and **CDR** data, the module can:
 - Correlate internet activity with **physical presence** for investigative leads.
 <img width="514" height="155" alt="image" src="https://github.com/user-attachments/assets/5b1e0c7f-5463-43cc-b95d-6daeced38b0b" />
 <img width="509" height="221" alt="image" src="https://github.com/user-attachments/assets/5b2d3ae9-8886-4684-a0e3-5217b4886b2a" />
+<img width="1904" height="965" alt="Screenshot 2026-08-02 164612" src="https://github.com/user-attachments/assets/2bcd6047-ae89-4701-b99f-acf23fd669b5" />
 
 
 ---
