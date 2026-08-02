@@ -256,6 +256,6 @@ if st.button("📝 Generate PDF Report"):
   
         
 else:
-    st.warning("⚠️ Please upload at least the GPS data. IPDR and CDR required unless GPS-only mode is selected.")
+    st.warning("⚠️ Please upload at least the GPS data. IPDR and CDR required unless GPS-only mode is selected. The cdr_complex and ipdr_complex files can be downloaded from the Github repository for this App")
 
 
